@@ -1,1 +1,1 @@
-# MoodSphere
+# MoodSphere Blog Article Page
